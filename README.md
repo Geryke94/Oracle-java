@@ -10,3 +10,6 @@ Each Trail includes related lessons to a specific topic, so the content will be 
 
 ## Getting Started
 This Trail is only a high overview and introduction about Java programming language.
+
+###  HelloWorldApp
+This app prints out a specified string to stdout.
