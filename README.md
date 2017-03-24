@@ -13,3 +13,5 @@ This Trail is only a high overview and introduction about Java programming langu
 
 ###  HelloWorldApp
 This app prints out a specified string to stdout.
+
+## Learning the Java Language
